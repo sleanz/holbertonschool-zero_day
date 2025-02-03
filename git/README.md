@@ -1,1 +1,1 @@
-ici on apprends les bases de git et github
+premeiedit sur giyhub / ici on apprends les bases de git et github
